@@ -18,4 +18,5 @@ Here's an example of a Deep Neural Network's prediction based on the [Fashion MN
 
 ![download](https://user-images.githubusercontent.com/72353689/121006088-1ece3700-c7ae-11eb-884a-120ad7b7a62d.png)
 
+### 2. Plot for Loss Curves
 
