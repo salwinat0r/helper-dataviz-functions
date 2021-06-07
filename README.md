@@ -8,7 +8,7 @@ Use these helper functions to better visualize your model, it's predictions and 
 
 ## Contents
 - [Heatmap of confusion matrix](#1-heatmap-of-confusion-matrix)
-- [Loss Curves Plot]()
+- [Loss Curves Plot](#2-plot-for-loss-curves)
 ### 1. Heatmap of Confusion Matrix
 
 A confusion matrix is a tabular summary of the number of correct and incorrect predictions made by a classifier. It is used to measure the performance of a classification model.
